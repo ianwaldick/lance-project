@@ -1,0 +1,40 @@
+			/* lance-project.css */
+      body {
+				background-color: rgb(0,0,0); color: rgb(200,200,200)
+			}
+
+			h1 {
+				color: rgb(0,200,0); font-size: 4.75em
+			}
+
+			#button-row {
+				background-color: rgb(78, 103, 117); color: black; width: 620px; height: 30px; position: relative; bottom: 35px
+			}
+
+			.buttons {
+				font-size: 1em; 
+			}
+
+			#home {
+				position: relative; height: 25px; width: 150px; border: ridge
+			}
+
+			#about {
+				position: relative; height: 25px; width: 150px; left: 155px; bottom: 29.75px; border: ridge
+			}
+
+			#value {
+				position: relative; height: 25px; width: 150px; left: 310px; bottom: 59.5px; border: ridge
+			}
+
+			#next {
+				position: relative; height: 25px; width: 150px; left: 465px; bottom: 89.25px; border: ridge
+			}
+
+			#lance {
+				 float: right; width: 50%;
+			}
+
+			#pepes {
+				clear: both;
+			}
